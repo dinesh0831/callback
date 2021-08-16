@@ -21,6 +21,7 @@ setTimeout(() =>
                                             second.style.marginTop="23%"
                                             second.style.paddingLeft="5rem"
                                             second.style.backgroundColor="lightblue"
+                                            second.style.backgroundImage="linear-gradient(to right,orange,white,green)";
                                             document.body.append(second);
                                         },1000);
                                     }, 1000);
